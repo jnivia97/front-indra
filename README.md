@@ -40,3 +40,12 @@ Antes de empezar, asegúrate de tener instalados los siguientes programas en tu 
 
    ```bash
    git clone https://github.com/tu_usuario/proyecto-citas-react.git
+
+2. Ejecuta el proyecto
+
+   ```bash
+   npm start
+3. Url de proyecto
+   
+   ```bash
+   http://localhost:3000/
